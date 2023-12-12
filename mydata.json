@@ -1,0 +1,10 @@
+{
+  "authors": [
+    {"name": "Asif1"},
+    {"name": "Asif2"}
+  ],
+  "books": [
+    {"title": "Book 1", "author": "Asif1", "publication_year": 2022, "isbn": "1234567890123"},
+    {"title": "Book 2", "author": "Asif2", "publication_year": 2021, "isbn": "9876543210987"}
+  ]
+}
